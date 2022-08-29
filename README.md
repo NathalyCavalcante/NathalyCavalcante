@@ -1,5 +1,5 @@
 ### Hi there, I'm Nathaly Cavalcante 👋
-I'm a front-end web development student, coffee and cat lover, and I'm currently learning ReactJS.
+I'm a front-end web developer student, coffee and cat lover, and I'm currently learning ReactJS.
  
 🌸 About me:
   I have a degree in Social Communication and experience of several years in Public Administration. I am currently transitioning my career into the IT field.

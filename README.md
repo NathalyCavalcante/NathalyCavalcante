@@ -1,5 +1,7 @@
 ### Hi there, I'm Nathaly Cavalcante 👋
 I'm a front-end web development student, coffee and cat lover, and I'm currently learning ReactJS.
+
+> “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
  
 🌸 About me:
   I have a degree in Social Communication and experience of several years in Public Administration. I am currently transitioning my career into the IT field.

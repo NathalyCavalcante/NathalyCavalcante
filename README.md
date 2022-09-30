@@ -1,5 +1,5 @@
 ### Hi there, I'm Nathaly Cavalcante 👋
-I'm a web development student, coffee and cat lover, and I'm currently learning ReactJS.
+I'm a web development student, coffee and cat lover, and I'm currently learning Relational Databases.
 
 > “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
  

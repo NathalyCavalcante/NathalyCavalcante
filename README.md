@@ -1,10 +1,11 @@
-### Hi there, I'm Nathaly Cavalcante 👋
-I'm a web development student, coffee and cat lover, and I'm currently learning Relational Databases and Ruby.
+### Olá, eu sou Nathaly Cavalcante! 👋
+Sou uma estudante autodidata de desenvolvimento web, viciada em café e em joguinhos de simulação. No momento estou aprendendo BDs relacionais e a linguagem Ruby.
 
 > “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
  
-🌸 About me:
-  I have a degree in Social Communication and experience of several years in Public Administration. I am currently transitioning my career into the IT field.
+🌸 Sobre mim:
+   Minha formação acadêmcia é em Comunicação Social e tenho experiência de muitos anos na Administração Pública. Atualmente estou transicionando a minha carreira para o campo da TI.
+  
 <div align="center">
   <a href="https://github.com/NathalyCavalcante">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=NathalyCavalcante&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>

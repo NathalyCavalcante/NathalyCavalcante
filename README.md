@@ -3,8 +3,7 @@ Sou uma estudante autodidata de desenvolvimento web, viciada em café e em jogui
 
 > “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
  
-🌸 Sobre mim:
-   Minha formação acadêmcia é em Comunicação Social e tenho experiência de muitos anos na Administração Pública. Atualmente estou transicionando a minha carreira para o campo da TI.
+🌸 Sobre mim: Minha formação acadêmcia é em Comunicação Social e tenho experiência de muitos anos na Administração Pública. Atualmente estou transicionando a minha carreira para o campo da TI.
   
 <div align="center">
   <a href="https://github.com/NathalyCavalcante">

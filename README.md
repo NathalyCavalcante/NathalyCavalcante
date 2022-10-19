@@ -7,7 +7,7 @@ Sou uma estudante autodidata de desenvolvimento web, viciada em café e em jogui
   
 <div align="center">
   <a href="https://github.com/NathalyCavalcante">
-  <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api?username=NathalyCavalcante&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=NathalyCavalcante&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathalyCavalcante&layout=compact&langs_count=7&theme=panda"/>
 </div>
 <div style="display: inline_block" align="center"><br>

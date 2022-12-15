@@ -1,5 +1,5 @@
 ### Olá, eu sou Nathaly Cavalcante! 👋
-Sou uma estudante autodidata de desenvolvimento web, viciada em café e em joguinhos de simulação. No momento estou aprendendo Banco de Dados Relacionais e a Linguagem Ruby.
+Sou uma estudante autodidata de desenvolvimento web, viciada em café e em joguinhos de simulação. No momento estou aprendendo Python.
 
 > “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
  

@@ -1,9 +1,9 @@
 ### Olá, eu sou Nathaly Cavalcante! 👋
-Sou estudante de análise e desenvolvimento de sistemas, viciada em café e em joguinhos de simulação. No momento estou aprendendo Python e Django.
+Sou estudante de análise e desenvolvimento de sistemas, viciada em café e em joguinhos de simulação. No momento estou aprendendo Python,Django e Java.
 
 > “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
  
-🌸 Sobre mim: Minha formação acadêmcia é em Comunicação Social e tenho experiência de muitos anos na Administração Pública. Atualmente estou transicionando a minha carreira para o campo da TI.
+🌸 Sobre mim: Minha formação acadêmca inicial é em Comunicação Social e tenho experiência de muitos anos na Administração Pública. Atualmente estou transicionando a minha carreira para o campo da TI, fazendo o curso de Análise e Desenvolvimento de Sistemas.
   
 <div align="center">
   <a href="https://github.com/NathalyCavalcante">

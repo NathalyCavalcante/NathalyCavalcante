@@ -1,5 +1,5 @@
 ### Olá, eu sou Nathaly Cavalcante! 👋
-Sou estudante de análise e desenvolvimento de sistemas, viciada em café e em joguinhos de simulação. No momento estou aprendendo Python,Django e Java.
+Sou estudante de análise e desenvolvimento de sistemas, viciada em café e em joguinhos de simulação. No momento estou aprendendo Python, Django e Java.
 
 > “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
  
